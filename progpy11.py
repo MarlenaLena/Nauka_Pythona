@@ -1,6 +1,6 @@
-koszyk_items: ['telewizor', 'radio', 'lodowka', 'glosniki']
-koszyk_ilosc: [1, 2, 3, 5]
-koszyk_cena: [1000, 400, 1200, 500]
+koszyk_items = ['telewizor', 'radio', 'lodowka', 'glosniki']
+koszyk_ilosc = [1, 2, 3, 5]
+koszyk_cena = [1000, 400, 1200, 500]
 
 sum = 0
 for idx in range(len(koszyk_items)):
